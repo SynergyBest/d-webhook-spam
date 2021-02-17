@@ -1,5 +1,5 @@
 # This is a webhook spam for [Discord](https://discord.com)
-[![Run it on Repl.it](https://repl.it/badge/github/SynergyDev/d-webhook-spam)](https://repl.it/github/synergybest/d-webhook-spam) [![Discord](https://img.shields.io/discord/759108372447887450?color=7289DA&label=Discord&logo=discord)](https://discord.gg/dCcBFwQStT) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/synergybest/d-webhook-spam?include_prereleases&label=Version&logo=Python&logoColor=white)](https://github.com/synergybest/d-webhook-spam/releases)
+[![Run it on Repl.it](https://repl.it/badge/github/SynergyDev/d-webhook-spam)](https://repl.it/github/synergybest/d-webhook-spam) [![Discord](https://img.shields.io/discord/759108372447887450?color=7289DA&label=Discord&logo=discord)](https://discord.gg/dCcBFwQStT) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/synergybest/d-webhook-spam?include_prereleases&label=Version&logo=Python&logoColor=white)](https://github.com/synergybest/d-webhook-spam/releases/latest)
 ## Json Parameters
 ```json
 {
