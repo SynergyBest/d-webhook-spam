@@ -1,7 +1,7 @@
-while True:
-  import requests
-  import time
+import requests
+import time
 
+while True:
   url = # discord webhook url
 
   embed = {
