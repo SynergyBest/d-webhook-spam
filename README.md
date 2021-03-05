@@ -37,3 +37,4 @@ Add the webhook url inbetween the double quotes
 While True:
 ```
 To have it not run infinitely please remove ```while True:``` and ``time.sleep()`` then highlight it all and press shift + tab and save
+<!-- Lmao idk -->
