@@ -17,15 +17,10 @@ data = {
         }
     ],
 }
-# All params: https://discord.com/developers/docs/resources/webhook#webhook-object-webhook-structure
 while True:
     result = requests.post(webhook, json=data)
     if 200 <= result.status_code < 300:
-        print(
-          f"Webhook sent with status {result.status_code}"
-        )
+        print(f"Webhook sent with status {result.status_code}")
     else:
-        print(
-            f"Webhook errored with status {result.status_code}, response:\n{result.json()}"
-        )
-    time.sleep(5) # seconds to wait inbetween webhooks (otherwise you get ratelimited)
+        print(f"Webhook errored with status {result.status_code}, response:\n{result.json()}")
+    time.sleep(5)  # seconds to wait inbetween webhooks (otherwise you get ratelimited)
