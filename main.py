@@ -24,3 +24,5 @@ while True:
     else:
         print(f"Webhook errored with status {result.status_code}, response:\n{result.json()}")
     time.sleep(5)  # seconds to wait inbetween webhooks (otherwise you get ratelimited)
+
+# test
